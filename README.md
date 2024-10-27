@@ -1,4 +1,4 @@
-# ImagineX - AI Image Generator *WITH REACT*
+# ImagineX - AI Image Generator **WITH REACT**
 
 ImagineX is an AI-powered image generation tool that allows users to create images from text prompts. This project leverages the OpenAI API to generate images quickly and efficiently.
 
