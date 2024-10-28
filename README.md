@@ -2,6 +2,15 @@
 
 ImagineX is an AI-powered image generation tool that allows users to create images from text prompts. This project leverages the OpenAI API to generate images quickly and efficiently.
 
+##### How to use ImagineX locally 
+
+coppy and past these commands in your terminal:
+```
+npm i
+npm start
+nmp run build
+```
+
 ## Table of Contents
 
 - [Introduction](#introduction)
